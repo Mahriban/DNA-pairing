@@ -15,6 +15,9 @@ Remember to use Read-Search-Ask if you get stuck. Try to pair program. Write you
 
 
 
+
+
+
 1. pairElement("ATCGA") should return [["A","T"],["T","A"],["C","G"],["G","C"],["A","T"]].
 
 2. pairElement("TTGAG") should return [["T","A"],["T","A"],["G","C"],["A","T"],["G","C"]].
